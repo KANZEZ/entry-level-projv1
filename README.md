@@ -1,10 +1,8 @@
 # kumar-lab-motion-planning-entry-level-proj              
 
-reference repo: https://github.com/KumarRobotics/kr_mav_control
-
-video link:      
-video1: https://drive.google.com/file/d/1yMbHHgemOOZR7tv3fs5D1PJQKb1t87Ui/view?usp=drive_link            
-video2: https://drive.google.com/file/d/1OqLqKoZCoIn6hmbnG7KkMj_ejhRCOYiw/view?usp=drive_link            
+reference repo: 
+- https://github.com/KumarRobotics/kr_mav_control
+- https://github.com/sikang/DecompUtil
 
 ##  About
 - motion planning entry level project
@@ -15,6 +13,7 @@ video2: https://drive.google.com/file/d/1OqLqKoZCoIn6hmbnG7KkMj_ejhRCOYiw/view?u
 - front-end path search: A* + Ramer–Douglas–Peucker
 - back-end optimization: 7th polynomial trajectory generation in dense and small corridors (reference: Minimum Snap Trajectory Generation and Control for Quadrotors)
 - performance: average running time: frontend: ~30ms, backend: ~80ms with slow velocity, acceleration and jerk.
+- [video1](https://youtu.be/yAZ2K34y-sc) 
 <p align="center">
   <img src="mydoc/1.png" width = "793.5" height = "446.5"/>
 </p>
@@ -22,8 +21,9 @@ video2: https://drive.google.com/file/d/1OqLqKoZCoIn6hmbnG7KkMj_ejhRCOYiw/view?u
 
 ### method 2
 - front-end path search: A* + Ramer–Douglas–Peucker
-- back-end optimization: 7th polynomial trajectory generation in convex corridors (reference: Planning_Dynamically_Feasible_Trajectories_for_Quadrotors_Using_Safe_Flight_Corridors_in_3D_Complex_Environments)
+- back-end optimization: 7th polynomial trajectory generation in convex polyhedron corridors (reference: Planning_Dynamically_Feasible_Trajectories_for_Quadrotors_Using_Safe_Flight_Corridors_in_3D_Complex_Environments)
 - performance: average running time: frontend: ~30ms, backend: ~300ms with fast velocity, acceleration and jerk.
+- [video2]([https://youtu.be/yAZ2K34y-sc](https://youtu.be/Mxb7C_kNfv0)) 
 <p align="center">
   <img src="mydoc/2.png" width = "793.5" height = "446.5"/>
 </p>
