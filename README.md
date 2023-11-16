@@ -15,7 +15,7 @@ video2: https://drive.google.com/file/d/1OqLqKoZCoIn6hmbnG7KkMj_ejhRCOYiw/view?u
 - front-end path search: A* + Ramer–Douglas–Peucker
 - back-end optimization: polynomial trajectory generation in dense and small corridors (reference: Minimum Snap Trajectory Generation and Control for Quadrotors)
 <p align="center">
-  <img src="docs/keyboard.png" width = "793.5" height = "446.5"/>
+  <img src="mydoc/1.png" width = "793.5" height = "446.5"/>
 </p>
 
 
@@ -23,7 +23,7 @@ video2: https://drive.google.com/file/d/1OqLqKoZCoIn6hmbnG7KkMj_ejhRCOYiw/view?u
 - front-end path search: A* + Ramer–Douglas–Peucker
 - back-end optimization: polynomial trajectory generation in convex corridors (reference: Planning_Dynamically_Feasible_Trajectories_for_Quadrotors_Using_Safe_Flight_Corridors_in_3D_Complex_Environments)
 <p align="center">
-  <img src="docs/keyboard.png" width = "793.5" height = "446.5"/>
+  <img src="mydoc/2.png" width = "793.5" height = "446.5"/>
 </p>
 
 
