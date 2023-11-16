@@ -34,7 +34,7 @@ reference repo:
 
 
 ## build on ROS-noetic
-upzip src.zip(method 1) or src.zip(method 2)
+upzip src1.zip(method 1) or src2.zip(method 2) and rename it src
 ```
 mkdir ws
 catkin_make
