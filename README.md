@@ -23,7 +23,7 @@ reference repo:
 - front-end path search: A* + Ramer–Douglas–Peucker
 - back-end optimization: 7th polynomial trajectory generation in convex polyhedron corridors (reference: Planning_Dynamically_Feasible_Trajectories_for_Quadrotors_Using_Safe_Flight_Corridors_in_3D_Complex_Environments)
 - performance: average running time: frontend: ~30ms, backend: ~300ms with fast velocity, acceleration and jerk.
-- [video2]([https://youtu.be/yAZ2K34y-sc](https://youtu.be/Mxb7C_kNfv0)) 
+- [video2](https://youtu.be/yAZ2K34y-sc](https://youtu.be/Mxb7C_kNfv0) 
 <p align="center">
   <img src="mydoc/2.png" width = "793.5" height = "446.5"/>
 </p>
